@@ -41,7 +41,7 @@ require('lazy').setup({
 
   require 'kickstart.plugins.blink-cmp',
 
-  require 'kickstart.plugins.surround',
+  require 'kickstart.plugins.mini',
 
   require 'kickstart.plugins.bamboo-theme',
 
