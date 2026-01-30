@@ -25,6 +25,8 @@ require('lazy').setup({
 
   require 'kickstart.plugins.bufferline',
 
+  require 'kickstart.plugins.agentic',
+
   require 'kickstart.plugins.toggleterm',
 
   require 'kickstart.plugins.neoscroll',
